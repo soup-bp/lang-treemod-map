@@ -17,7 +17,8 @@ graph TD;
     id10[Proto-Indo-Iranian];
     id11[Iranian];
     id12[Old Indic];
-    id1-->id2;
+    
+    id1-->|4200 BCE|id2;
     id2-->id3;
     id3-->id4;
     id3-->id5;
