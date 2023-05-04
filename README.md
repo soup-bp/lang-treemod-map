@@ -5,7 +5,7 @@ Here is a test flow chart:
 
 ```mermaid
 graph TD;
-    Pre-Proto-Indo-European-->Proto-Indo-European;
-    Proto-Indo-European-->Indo-European;
+    id1(Pre-Proto-Indo-European-->Proto-Indo-European);
+    id2(Proto-Indo-European-->Indo-European);
    
 ```
