@@ -18,17 +18,17 @@ graph TD;
     id11[Iranian];
     id12[Old Indic];
     
-    id1-->|4200 BCE|id2;
+    id1-->id2;
     id2-->id3;
-    id3-->id4;
-    id3-->id5;
-    id3-->id6;
-    id3-->id7;
-    id3-->id8;
-    id3-->id9;
-    id3-->id10;
-    id10-->id11;
-    id10-->id12;
+    id3-->|4200 BCE|id4;
+    id3-->|3700 BCE|id5;
+    id3-->|3000 BCE|id6;
+    id3-->|2800 BCE|id7;
+    id3-->|2800 BCE|id8;
+    id3-->|2500 BCE|id9;
+    id3-->|2200 BCE|id10;
+    id10-->|1800 BCE|id11;
+    id10-->|1800 BCE|id12;
 
    
 ```
